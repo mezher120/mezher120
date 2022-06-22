@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Javier Ferrari Mezher</h1>
-<h3 align="center">A passionate frontend/backend developer from Argentina</h3>
+<h3 align="center">A passionate frontend/backend developer for the World 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezher120&label=Profile%20views&color=0e75b6&style=flat" alt="mezher120" /> </p>
 
 - 🔭 I’m currently working on **E-commerce proyect**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity** 
 
-- 👯 I’m looking to collaborate on **projects where I can provide my knowledge, experience and energy.**
+- 👯 I’m looking to collaborate on **projects where I can provide my knowledge, experience and energy.** 🦊
 
 - 👨‍💻 All of my projects are available at [mezher120](mezher120)
 
